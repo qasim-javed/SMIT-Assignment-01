@@ -1,1 +1,2 @@
-# SMIT-Assignment-01
+# SMIT-Assignments
+ Assignment01
